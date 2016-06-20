@@ -11,7 +11,7 @@ In order to maintain consistency these are the criteria for acceptance into the 
 - Image Splashes must be `.png` filetype
 - Video Splashes must be `.mp4` filetype
 
-** Dimensions:**
+**Dimensions:**
 
 - Regular Dimensions: 1920x1080 
 - 4x3 Dimensions: 1440x1080
